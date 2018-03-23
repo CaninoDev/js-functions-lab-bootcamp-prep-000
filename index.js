@@ -2,6 +2,7 @@
 var holiday = "Christmas"
 var days = 22
 var name = "Ian"
+
 function happyHolidays() {
   return "Happy holidays!"
 }
